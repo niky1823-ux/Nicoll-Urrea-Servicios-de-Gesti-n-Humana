@@ -361,6 +361,22 @@
       font-size: 0.95rem;
     }
 
+    .map-box {
+      margin-top: 24px;
+      overflow: hidden;
+      border: 1px solid rgba(184, 184, 184, 0.25);
+      border-radius: var(--radius);
+      background: var(--white);
+      box-shadow: var(--shadow);
+    }
+
+    .map-box iframe {
+      display: block;
+      width: 100%;
+      height: 320px;
+      border: 0;
+    }
+
     .contact-form {
       padding: 30px;
       border: 1px solid rgba(184, 184, 184, 0.35);
@@ -553,6 +569,10 @@
         gap: 25px;
       }
 
+      .map-box iframe {
+        height: 260px;
+      }
+
       .contact-form {
         padding: 22px 18px;
       }
@@ -699,6 +719,16 @@
           <p class="eyebrow">Hablemos de tu organización</p>
           <h2 id="contact-title">Construyamos un mejor futuro para tu equipo.</h2>
           <p>Cuéntanos qué necesitas y encontraremos juntos una forma de potenciar el talento de tu organización.</p>
+
+          <div class="map-box" aria-label="Ubicación en Cali, Colombia">
+            <iframe
+              title="Ubicación en Cali, Colombia"
+              src="https://www.google.com/maps?q=Cali%2C%20Colombia&z=12&output=embed"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+              allowfullscreen>
+            </iframe>
+          </div>
         </div>
         <form class="contact-form" id="contact-form">
           <div class="form-field">
