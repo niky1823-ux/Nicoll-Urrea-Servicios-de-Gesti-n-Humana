@@ -81,10 +81,18 @@
       letter-spacing: -0.03em;
     }
 
-    .brand img {
-      width: 56px;
-      height: 48px;
-      object-fit: contain;
+    .brand-mark {
+      display: inline-grid;
+      place-items: center;
+      width: 52px;
+      height: 52px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, var(--navy), var(--blue));
+      color: var(--white);
+      font-size: 0.95rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      box-shadow: 0 10px 20px rgba(47, 79, 144, 0.22);
     }
 
     .brand span span {
@@ -125,7 +133,7 @@
       background-color: var(--navy);
       background-image:
         linear-gradient(90deg, rgba(25, 43, 78, 0.94) 0%, rgba(25, 43, 78, 0.79) 48%, rgba(25, 43, 78, 0.32) 100%),
-        url("oficina-reunion.jpg");
+        url('https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80');
       background-position: center, 68% 48%;
       background-size: cover;
     }
@@ -495,9 +503,10 @@
         padding-block: 10px;
       }
 
-      .brand img {
-        width: 46px;
-        height: 40px;
+      .brand-mark {
+        width: 44px;
+        height: 44px;
+        font-size: 0.82rem;
       }
 
       .brand {
@@ -577,7 +586,7 @@
   <header class="site-header" id="inicio">
     <div class="container header-inner">
       <a class="brand" href="#inicio" aria-label="Nexo Humano, ir al inicio">
-        <img src="Logo.jpg" alt="">
+        <span class="brand-mark" aria-hidden="true">NH</span>
         <span>Nexo Humano<span>Talento con propósito</span></span>
       </a>
       <nav class="main-nav" aria-label="Navegación principal">
@@ -610,42 +619,42 @@
         </div>
         <div class="catalog-grid">
           <article class="catalog-card">
-            <img src="portatil-escritorio.jpg" alt="Computadora y portátil sobre un escritorio de oficina">
+            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" alt="Computadora y portátil sobre un escritorio de oficina">
             <div class="card-copy">
               <h3>Selección por competencias</h3>
               <p>Identificamos perfiles y seleccionamos talento alineado con cada rol y con la cultura de tu organización.</p>
             </div>
           </article>
           <article class="catalog-card">
-            <img src="espacio-trabajo.jpg" alt="Sala de reuniones moderna con mesa y sillas vacías">
+            <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80" alt="Sala de reuniones moderna con mesa y sillas vacías">
             <div class="card-copy">
               <h3>Desarrollo y formación</h3>
               <p>Diseñamos rutas de aprendizaje y experiencias prácticas para fortalecer las habilidades de tus equipos.</p>
             </div>
           </article>
           <article class="catalog-card">
-            <img src="oficina-moderna.jpg" alt="Espacio de oficina con sillones y lámpara de diseño">
+            <img src="https://images.unsplash.com/photo-1497366412874-3415097a27e7?auto=format&fit=crop&w=900&q=80" alt="Espacio de oficina con sillones y lámpara de diseño">
             <div class="card-copy">
               <h3>Clima y bienestar</h3>
               <p>Escuchamos a las personas y convertimos sus perspectivas en acciones que mejoran el entorno laboral.</p>
             </div>
           </article>
           <article class="catalog-card">
-            <img src="portatil-estrategia.jpg" alt="Portátil y computadora en un escritorio de trabajo">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Portátil y computadora en un escritorio de trabajo">
             <div class="card-copy">
               <h3>Desempeño y crecimiento</h3>
               <p>Definimos indicadores y conversaciones de desempeño que impulsan el desarrollo y los resultados.</p>
             </div>
           </article>
           <article class="catalog-card">
-            <img src="escritorio-oficina.jpg" alt="Pasillo de una oficina moderna con salas de vidrio">
+            <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=900&q=80" alt="Pasillo de una oficina moderna con salas de vidrio">
             <div class="card-copy">
               <h3>Cambio y cultura</h3>
               <p>Acompañamos a líderes y equipos para facilitar la adaptación y fortalecer una cultura compartida.</p>
             </div>
           </article>
           <article class="catalog-card">
-            <img src="sala-ejecutiva.jpg" alt="Sala de reuniones vacía con mesa de madera y ventanales">
+            <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&w=900&q=80" alt="Sala de reuniones vacía con mesa de madera y ventanales">
             <div class="card-copy">
               <h3>Retención y compromiso</h3>
               <p>Desarrollamos estrategias para cuidar el talento, fortalecer el compromiso y conservar el conocimiento.</p>
