@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Retención y compromiso</title>
+  <desc id="desc">Ilustración de compromiso, talento y continuidad dentro de la organización.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7f3ff"/>
+      <stop offset="100%" stop-color="#e7e9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="960" fill="url(#bg)"/>
+  <rect x="140" y="250" width="920" height="430" rx="32" fill="#ffffff" opacity="0.82"/>
+  <rect x="210" y="330" width="270" height="240" rx="26" fill="#edf1ff"/>
+  <rect x="540" y="330" width="450" height="90" rx="18" fill="#e5ebff"/>
+  <rect x="540" y="450" width="450" height="120" rx="18" fill="#f4f7ff"/>
+  <circle cx="345" cy="400" r="74" fill="#b5c4ee"/>
+  <path d="M290 528 Q345 455 400 528 V650 H290 Z" fill="#2f4f90" opacity="0.85"/>
+  <path d="M560 510 C650 445, 760 470, 860 510" fill="none" stroke="#4a6fb1" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="560" cy="510" r="14" fill="#4a6fb1"/>
+  <circle cx="715" cy="470" r="14" fill="#4a6fb1"/>
+  <circle cx="860" cy="510" r="14" fill="#4a6fb1"/>
+  <rect x="560" y="350" width="170" height="18" rx="9" fill="#4a6fb1" opacity="0.8"/>
+  <rect x="560" y="385" width="240" height="18" rx="9" fill="#c9d8ff"/>
+  <rect x="560" y="470" width="120" height="14" rx="7" fill="#dce5ff"/>
+  <rect x="695" y="470" width="200" height="14" rx="7" fill="#dce5ff"/>
+  <path d="M194 760 H1006" stroke="#d6dcf3" stroke-width="12" stroke-linecap="round"/>
+</svg>

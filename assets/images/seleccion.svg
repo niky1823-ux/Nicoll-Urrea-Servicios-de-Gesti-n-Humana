@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Selección por competencias</title>
+  <desc id="desc">Ilustración de escritorio con portátil y perfiles profesionales.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#edf4ff"/>
+      <stop offset="100%" stop-color="#dfeaff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="960" fill="url(#bg)"/>
+  <rect x="90" y="720" width="1020" height="120" rx="28" fill="#d3e4ff"/>
+  <rect x="220" y="496" width="330" height="220" rx="30" fill="#ffffff" stroke="#b9ccea" stroke-width="3"/>
+  <rect x="250" y="532" width="270" height="148" rx="18" fill="#eef4ff"/>
+  <rect x="680" y="420" width="210" height="298" rx="30" fill="#ffffff" stroke="#b9ccea" stroke-width="3"/>
+  <rect x="710" y="468" width="150" height="72" rx="14" fill="#bdd0ef"/>
+  <rect x="710" y="560" width="150" height="20" rx="10" fill="#cfe1ff"/>
+  <rect x="710" y="595" width="120" height="20" rx="10" fill="#cfe1ff"/>
+  <circle cx="405" cy="430" r="72" fill="#bad0f8"/>
+  <circle cx="836" cy="298" r="60" fill="#9bb8eb"/>
+  <path d="M332 403 Q405 332 480 403 L480 530 L332 530 Z" fill="#2f4f90" opacity="0.9"/>
+  <path d="M775 256 Q836 200 896 256 L896 398 L775 398 Z" fill="#4a6fb1" opacity="0.9"/>
+  <rect x="145" y="166" width="200" height="110" rx="18" fill="#ffffff" opacity="0.8"/>
+  <rect x="160" y="180" width="170" height="16" rx="8" fill="#dce9ff"/>
+  <rect x="160" y="210" width="120" height="16" rx="8" fill="#dce9ff"/>
+  <rect x="160" y="240" width="140" height="16" rx="8" fill="#dce9ff"/>
+  <rect x="950" y="160" width="170" height="150" rx="24" fill="#ffffff" opacity="0.8"/>
+  <path d="M990 220 h90" stroke="#4a6fb1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M990 250 h70" stroke="#a9c4e8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M990 280 h110" stroke="#c9daf7" stroke-width="10" stroke-linecap="round"/>
+</svg>

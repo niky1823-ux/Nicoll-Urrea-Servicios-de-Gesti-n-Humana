@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Cambio y cultura</title>
+  <desc id="desc">Ilustración de reunión, cultura organizacional y transformación.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3f7ff"/>
+      <stop offset="100%" stop-color="#e7edf9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="960" fill="url(#bg)"/>
+  <rect x="160" y="180" width="880" height="600" rx="30" fill="#ffffff" opacity="0.84"/>
+  <rect x="210" y="275" width="760" height="200" rx="28" fill="#edf3ff"/>
+  <rect x="210" y="505" width="760" height="180" rx="28" fill="#f7f9ff"/>
+  <circle cx="290" cy="360" r="56" fill="#b7cdec"/>
+  <circle cx="480" cy="360" r="56" fill="#99b3e5"/>
+  <circle cx="670" cy="360" r="56" fill="#b7cdec"/>
+  <circle cx="860" cy="360" r="56" fill="#99b3e5"/>
+  <path d="M228 592 H934" stroke="#bfd3f8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="248" y="550" width="170" height="82" rx="18" fill="#dfeaff"/>
+  <rect x="448" y="550" width="170" height="82" rx="18" fill="#d6e7ff"/>
+  <rect x="648" y="550" width="170" height="82" rx="18" fill="#dfeaff"/>
+  <rect x="848" y="550" width="90" height="82" rx="18" fill="#a9c4e8"/>
+  <path d="M297 246 L336 196 L378 246" fill="none" stroke="#2f4f90" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M660 236 L700 174 L742 236" fill="none" stroke="#2f4f90" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M920 246 L960 190 L1002 246" fill="none" stroke="#2f4f90" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

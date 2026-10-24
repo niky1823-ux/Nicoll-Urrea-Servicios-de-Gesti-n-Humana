@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Desempeño y crecimiento</title>
+  <desc id="desc">Ilustración de métricas, crecimiento y seguimiento de desempeño.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eef5ff"/>
+      <stop offset="100%" stop-color="#dfeeff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="960" fill="url(#bg)"/>
+  <rect x="180" y="150" width="840" height="660" rx="30" fill="#ffffff" opacity="0.78"/>
+  <rect x="250" y="235" width="310" height="420" rx="24" fill="#edf4ff"/>
+  <rect x="610" y="235" width="360" height="420" rx="24" fill="#f5f8ff"/>
+  <rect x="292" y="292" width="40" height="30" rx="10" fill="#4a6fb1" opacity="0.8"/>
+  <rect x="292" y="340" width="235" height="18" rx="9" fill="#dce9ff"/>
+  <rect x="292" y="376" width="200" height="18" rx="9" fill="#dce9ff"/>
+  <rect x="292" y="412" width="170" height="18" rx="9" fill="#dce9ff"/>
+  <rect x="292" y="550" width="235" height="70" rx="22" fill="#dfeaff"/>
+  <path d="M670 520 L735 460 L790 490 L850 422 L930 340" fill="none" stroke="#4a6fb1" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="670" cy="520" r="12" fill="#4a6fb1"/>
+  <circle cx="735" cy="460" r="12" fill="#4a6fb1"/>
+  <circle cx="790" cy="490" r="12" fill="#4a6fb1"/>
+  <circle cx="850" cy="422" r="12" fill="#4a6fb1"/>
+  <circle cx="930" cy="340" r="12" fill="#4a6fb1"/>
+  <rect x="638" y="272" width="120" height="16" rx="8" fill="#4a6fb1" opacity="0.85"/>
+  <rect x="638" y="305" width="180" height="16" rx="8" fill="#dfeaff"/>
+  <rect x="638" y="600" width="260" height="18" rx="9" fill="#dfeaff"/>
+  <rect x="910" y="600" width="30" height="18" rx="9" fill="#4a6fb1" opacity="0.8"/>
+  <path d="M200 760 H1000" stroke="#d2dfef" stroke-width="10" stroke-linecap="round"/>
+</svg>

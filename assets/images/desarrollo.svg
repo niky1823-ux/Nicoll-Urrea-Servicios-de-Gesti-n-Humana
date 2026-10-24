@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Desarrollo y formación</title>
+  <desc id="desc">Ilustración de aprendizaje, formación y acompañamiento en equipos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f1f6ff"/>
+      <stop offset="100%" stop-color="#e4ecff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="960" fill="url(#bg)"/>
+  <rect x="120" y="200" width="960" height="560" rx="30" fill="#ffffff" opacity="0.8"/>
+  <rect x="180" y="260" width="250" height="430" rx="26" fill="#eef5ff"/>
+  <rect x="475" y="260" width="540" height="150" rx="24" fill="#d9e8ff"/>
+  <rect x="475" y="445" width="540" height="245" rx="24" fill="#edf3ff"/>
+  <circle cx="300" cy="360" r="72" fill="#a9c4e8"/>
+  <path d="M252 496 Q300 430 348 496 V640 H252 Z" fill="#2f4f90"/>
+  <rect x="500" y="290" width="220" height="18" rx="9" fill="#4a6fb1" opacity="0.8"/>
+  <rect x="500" y="325" width="160" height="18" rx="9" fill="#a9c4e8"/>
+  <rect x="500" y="470" width="120" height="140" rx="18" fill="#9bb8eb"/>
+  <rect x="645" y="470" width="120" height="170" rx="18" fill="#bfd6f5"/>
+  <rect x="790" y="470" width="120" height="100" rx="18" fill="#dfeaff"/>
+  <rect x="935" y="470" width="40" height="140" rx="20" fill="#2f4f90" opacity="0.8"/>
+  <path d="M500 660 H980" stroke="#b8c9e7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M760 610 L890 540 L980 600" fill="none" stroke="#4a6fb1" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="760" cy="610" r="14" fill="#4a6fb1"/>
+  <circle cx="890" cy="540" r="14" fill="#4a6fb1"/>
+  <circle cx="980" cy="600" r="14" fill="#4a6fb1"/>
+</svg>
